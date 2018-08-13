@@ -6,6 +6,6 @@ public class DatabaseTest {
 
 	@Test
 	public void checkDatabase() {
-	System.out.println("Database is  OK ...");
+	System.out.println("Junit Database Test is ok......");
 	}
 }
